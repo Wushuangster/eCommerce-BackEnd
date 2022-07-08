@@ -48,6 +48,18 @@ The following animation shows the application's POST, PUT, and DELETE routes for
 
 Your walkthrough video should also show the POST, PUT, and DELETE routes for products and tags being tested in Insomnia.
 
+
+### **Walkthrough Video Link:**
+
+https://watch.screencastify.com/v/kgcf1Aox8mv2t0CoIYXZ
+
+### **GitHub Link:**
+
+https://github.com/Wushuangster/eCommerce-BackEnd
+
+
+
+
 ## Getting Started
 
 You’ll need to use the [MySQL2](https://www.npmjs.com/package/mysql2) and [Sequelize](https://www.npmjs.com/package/sequelize) packages to connect your Express.js API to a MySQL database and the [dotenv](https://www.npmjs.com/package/dotenv) package to use environment variables to store sensitive data.
